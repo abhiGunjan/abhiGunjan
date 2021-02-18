@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek Gunjan
+### 👋 Hi there, I'm Abhishek Gunjan
 - 👀 I’m interested in coding and learing.
 - 🌱 I’m currently pursing MCA 1st Semester at CuK
 
@@ -32,10 +32,10 @@
 ---
 
 
-[website]: <!---https://
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/
+<!---[website]: https:// --->
+[twitter]: https://twitter.com/Abhishe92420106
+[instagram]: https://www.instagram.com/pythex__/
+[linkedin]: https://www.linkedin.com/in/abhishek-gunjan-a14853168/
 
 <!---
 abhiGunjan/abhiGunjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
