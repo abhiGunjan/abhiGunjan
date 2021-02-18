@@ -32,8 +32,6 @@
 ---
 
 
-<img align="left" alt="abhiGunjan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhiGunjancons=true&hide_border=true" />
-
 [website]: <!---https://
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
