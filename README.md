@@ -32,7 +32,7 @@
 ---
 
 
-<img align="left" alt="vinaysomawat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinaysomawat&show_icons=true&hide_border=true" />
+<img align="left" alt="abhiGunjan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhiGunjancons=true&hide_border=true" />
 
 [website]: <!---https://
 [twitter]: https://twitter.com/
