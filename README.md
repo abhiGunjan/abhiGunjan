@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Abhishek Gunjan
 - 👀 I’m interested in coding and learing.
-- 🌱 I’m currently pursing MCA 1st Semester at CuK
+- 🌱 I’m currently pursing MCA 3rd Semester at CuK
 
 ### Connect with me:
 
